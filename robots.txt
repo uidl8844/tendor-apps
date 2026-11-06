@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uidl8844.github.io/tendor-apps/sitemap.xml
